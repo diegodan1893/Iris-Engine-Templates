@@ -1,6 +1,7 @@
 # Iris Engine Templates
 
-Trying to create config files and basic assets for Iris Engine
+Trying to create config files and basic assets for
+[Iris Engine](https://github.com/diegodan1893/Iris-Engine)
 games completely from scratch can be hard, especially if it’s
 your first time doing so. These templates can help you getting
 started by providing a base you can customize to your needs.
@@ -14,3 +15,11 @@ Each template targets a common game resolution and comes with:
 * Some example transition images
 * An example icon
 * Some GUI sounds
+
+
+## Usage
+
+Copy the contents of the template you want to use to the same
+folder of the Iris Engine executable.
+
+* [Download links](https://github.com/diegodan1893/Iris-Engine-Templates/releases/latest)
