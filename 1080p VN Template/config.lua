@@ -139,6 +139,9 @@ paths = {
 	-- The folder where sound effects are located
 	sounds = "assets/sounds/",
 
+	-- The folder where videos are located
+	videos = "assets/videos/",
+
 	-- String used as a separator when constructing filenames
 	separator = " "
 }
